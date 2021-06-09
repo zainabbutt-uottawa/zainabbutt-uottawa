@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zainabbutt-uottawa
-- 👀 I’m interested in AI, data structures, cyber security.
+- 👀 I’m interested in AI, data structures and cyber security.
 - 🌱 I’m currently learning Java
 - 📫 How to reach me @zbutt066@uottawa.ca
 
